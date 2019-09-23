@@ -1,5 +1,5 @@
 alert("Welkom bij Bosrun, speel voorzichtig en denk goed na over je keuzes.");
-Main()
+Main();
 function Main(){
     console.log("Main"); 
     let keuze = prompt("Je loopt door een bos en bent opzoek naar het huis van je opa. Het bos bevat vele paden waar je overheen kan gaan lopen, op dit moment sta je voor een belangrijke keuze. Het pad wat jij al die tijd hebt gevolgd loopt uit op een tweedsplitsing, rechts zie je een groot pad met veel licht aan het einde en links ziet het er donker uit met veel angstaanjagende geluiden", "Rechts of Links");
